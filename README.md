@@ -35,24 +35,44 @@
 ![STM32](https://img.shields.io/badge/STM32-4E4E4E?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ARM Cortex-M4](https://img.shields.io/badge/ARM_CORTEX--M4-0E2E66?style=for-the-badge&logo=arm&logoColor=white)
 
-## 프로젝트
 
-### STM32 Fan Control Project
-- STM32 기반 팬 제어 시스템
-- GPIO, PWM, 센서 입력 처리
+## 🚀 Projects
 
-### Elevator Control Project
-- 엘리베이터 동작 제어 시스템
-- 버튼 입력, 상태 전환, 층 이동 로직 구현
+### STM32 / C
 
-### RC Car Project
-- STM32 기반 RC카 제어
-- 모터 제어 및 방향 제어 구현
+- [**Fan**](https://github.com/pleaselaymedown/project_1_fan)  
+  Timer fan control system using STM32 and servo motor  
+  STM32 기반 타이머 선풍기 및 서보 모터 제어
 
-### Parking System Project
-- 주차 관리 시스템
-- 입출차 로직 및 상태 표시 기능 구현
+- [**Elevator**](https://github.com/pleaselaymedown/project_2_elevator)  
+  STM32-based 1st to 3rd floor elevator control system using stepper motor  
+  STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용
 
+- [**Autonomous RC Car**](https://github.com/pleaselaymedown/project_3_RC_car)  
+  Obstacle-avoidance autonomous driving system using STM32F411 and ultrasonic sensors  
+  STM32F411 및 초음파 센서를 활용한 장애물 회피 주행 RC카
+
+
+### Verilog / Vivado / BASYS3
+
+- [**Fire Alarm**](https://github.com/pleaselaymedown/레포지토리이름)  
+  Fire alarm system using BASYS3, temperature and humidity sensor, and infrared flame sensor  
+  BASYS3, 온습도 센서, 적외선 화염 센서를 활용한 화재 경보기
+
+- [**Robot Arm**](https://github.com/pleaselaymedown/레포지토리이름)  
+  BASYS3-based 4-DOF robot arm control system using Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, and custom Verilog servo PWM  
+  Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, custom Verilog servo PWM 기반 BASYS3 4축 로봇팔 제어 시스템
+
+- [**Vision Robot Arm**](https://github.com/pleaselaymedown/레포지토리이름)  
+  Vision-based automatic sorting system using BASYS3, OV7670 camera, and a 6-axis robot arm  
+  BASYS3, OV7670 카메라, 6축 로봇팔을 활용한 비전 기반 자동 분류 시스템
+
+
+### Python / Machine Learning / NLP / PyQt5
+
+- [**Steam Game Recommender**](https://github.com/pleaselaymedown/레포지토리이름)  
+  A PyQt-based game recommendation system that collects Korean Steam reviews via the Steam API, preprocesses text with KoNLPy/Okt, and recommends games using TF-IDF and Word2Vec similarity analysis.  
+  Steam API 기반 한국어 리뷰 수집, KoNLPy/Okt 전처리, TF-IDF와 Word2Vec 유사도 분석을 활용한 PyQt 게임 추천 시스템
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pleaselaymedown&show_icons=true)
