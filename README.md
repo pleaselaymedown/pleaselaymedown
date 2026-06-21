@@ -13,7 +13,6 @@
 ## ⚙️ Tools
 
 ![VSCode](https://img.shields.io/badge/VSCode-3B73B9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-6F42C1?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-8C6239?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0F2B5B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-163A70?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -23,14 +22,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E06C3A?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-D8B11E?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-CF5B3E?style=for-the-badge&logo=git&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-4574A3?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 <br>
 
 ## 🔌 Hardware
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A63B5A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-5E97A2?style=for-the-badge&logo=arduino&logoColor=white)
 ![ATmega128](https://img.shields.io/badge/ATMEGA128-6E6E6E?style=for-the-badge&logoColor=white)
 ![8-bit AVR](https://img.shields.io/badge/8--BIT_AVR-5A88C7?style=for-the-badge&logoColor=white)
 ![BASYS 3](https://img.shields.io/badge/BASYS_3-7A7A7A?style=for-the-badge&logoColor=white)
@@ -38,8 +34,6 @@
 
 ![STM32](https://img.shields.io/badge/STM32-4E4E4E?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ARM Cortex-M4](https://img.shields.io/badge/ARM_CORTEX--M4-0E2E66?style=for-the-badge&logo=arm&logoColor=white)
-![ZYBO Z7-20](https://img.shields.io/badge/ZYBO_Z7--20-6A615B?style=for-the-badge&logoColor=white)
-![ZYNQ-7020](https://img.shields.io/badge/ZYNQ--7020-CB3D35?style=for-the-badge&logoColor=white)
 
 ## 프로젝트
 
