@@ -2,7 +2,7 @@
 
 멋있는 임베디드 시스템 및 펌웨어 개발자를 목표로 공부하고 있습니다. 황선민이라고 해요.
 
-
+<br>
 
 
 ## 🛠 Language Stack
@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-4B6EA8?style=for-the-badge&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-E67E22?style=for-the-badge&logoColor=white)
 
-<br>
 
 ## ⚙️ Tools
 
@@ -26,7 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-D8B11E?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-CF5B3E?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
 
 ## 🔌 Hardware
 
@@ -38,6 +36,7 @@
 ![STM32](https://img.shields.io/badge/STM32-4E4E4E?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ARM Cortex-M4](https://img.shields.io/badge/ARM_CORTEX--M4-0E2E66?style=for-the-badge&logo=arm&logoColor=white)
 
+<br>
 
 ## 🚀 Projects
 
