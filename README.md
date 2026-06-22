@@ -2,6 +2,7 @@
 
 멋있는 임베디드 시스템 및 펌웨어 개발자를 목표로 공부하고 있습니다. 황선민이라고 해요.
 
+
 ## 🛠 Language Stack
 
 ![C](https://img.shields.io/badge/C-2F5D9F?style=for-the-badge&logo=c&logoColor=white)
