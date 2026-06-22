@@ -53,19 +53,19 @@
   STM32F411 및 초음파 센서를 활용한 장애물 회피 주행 RC카
 
 
-### Verilog / Vivado / BASYS3
+## Verilog / Vivado / BASYS3
 
-- [**Fire Alarm**](https://github.com/pleaselaymedown/레포지토리이름)  
-  Fire alarm system using BASYS3, temperature and humidity sensor, and infrared flame sensor  
-  BASYS3, 온습도 센서, 적외선 화염 센서를 활용한 화재 경보기
+- [Parking System](https://github.com/pleaselaymedown/project_4_parking_system)  
+  Parking lot control system implemented with BASYS3, Verilog, sensor inputs, and display output  
+  BASYS3, Verilog, 센서 입력, 디스플레이 출력을 활용한 주차장 제어 시스템
 
-- [**Robot Arm**](https://github.com/pleaselaymedown/레포지토리이름)  
-  BASYS3-based 4-DOF robot arm control system using Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, and custom Verilog servo PWM  
-  Vivado Block Design, MicroBlaze, AXI GPIO, Vitis, custom Verilog servo PWM 기반 BASYS3 4축 로봇팔 제어 시스템
+- [Library Seat Management](https://github.com/pleaselaymedown/project_5_library_seat_management)  
+  Library seat status management system implemented with BASYS3 and Verilog-based control logic  
+  BASYS3와 Verilog 기반 제어 로직을 활용한 도서관 좌석 상태 관리 시스템
 
-- [**Vision Robot Arm**](https://github.com/pleaselaymedown/레포지토리이름)  
-  Vision-based automatic sorting system using BASYS3, OV7670 camera, and a 6-axis robot arm  
-  BASYS3, OV7670 카메라, 6축 로봇팔을 활용한 비전 기반 자동 분류 시스템
+- [Camera Filter](https://github.com/pleaselaymedown/project_6_camera_filter)  
+  Real-time camera filter system implemented with BASYS3, camera input, VGA output, and image processing logic  
+  BASYS3, 카메라 입력, VGA 출력, 영상 처리 로직을 활용한 실시간 카메라 필터 시스템
 
 
 ### Python / Machine Learning / NLP / PyQt5
