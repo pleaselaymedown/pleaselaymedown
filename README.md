@@ -53,17 +53,17 @@
   STM32F411 및 초음파 센서를 활용한 장애물 회피 주행 RC카
 
 
-## Verilog / Vivado / BASYS3
+### Verilog / Vivado / BASYS3
 
-- [Parking System](https://github.com/pleaselaymedown/project_4_parking_system)  
+- [**Parking System**](https://github.com/pleaselaymedown/project_4_parking_system)  
   Parking lot control system implemented with BASYS3, Verilog, sensor inputs, and display output  
   BASYS3, Verilog, 센서 입력, 디스플레이 출력을 활용한 주차장 제어 시스템
 
-- [Library Seat Management](https://github.com/pleaselaymedown/project_5_library_seat_management)  
+- [**Library Seat Management**](https://github.com/pleaselaymedown/project_5_library_seat_management)  
   Library seat status management system implemented with BASYS3 and Verilog-based control logic  
   BASYS3와 Verilog 기반 제어 로직을 활용한 도서관 좌석 상태 관리 시스템
 
-- [Camera Filter](https://github.com/pleaselaymedown/project_6_camera_filter)  
+- [**Camera Filter**](https://github.com/pleaselaymedown/project_6_camera_filter)  
   Real-time camera filter system implemented with BASYS3, camera input, VGA output, and image processing logic  
   BASYS3, 카메라 입력, VGA 출력, 영상 처리 로직을 활용한 실시간 카메라 필터 시스템
 
@@ -73,10 +73,5 @@
 - [**Steam Game Recommender**](https://github.com/pleaselaymedown/레포지토리이름)  
   A PyQt-based game recommendation system that collects Korean Steam reviews via the Steam API, preprocesses text with KoNLPy/Okt, and recommends games using TF-IDF and Word2Vec similarity analysis.  
   Steam API 기반 한국어 리뷰 수집, KoNLPy/Okt 전처리, TF-IDF와 Word2Vec 유사도 분석을 활용한 PyQt 게임 추천 시스템
-## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pleaselaymedown&show_icons=true)
 
-## 연락처
-
-- GitHub: https://github.com/pleaselaymedown
