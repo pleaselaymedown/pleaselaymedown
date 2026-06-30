@@ -72,7 +72,7 @@
 
 ### Python / Machine Learning / NLP / PyQt5
 
-- [**Steam Game Recommender**](https://github.com/pleaselaymedown/레포지토리이름)  
+- [**Steam Game Recommender**](https://github.com/pleaselaymedown/project_7_game_recommendation)  
   A PyQt-based game recommendation system that collects Korean Steam reviews via the Steam API, preprocesses text with KoNLPy/Okt, and recommends games using TF-IDF and Word2Vec similarity analysis.  
   Steam API 기반 한국어 리뷰 수집, KoNLPy/Okt 전처리, TF-IDF와 Word2Vec 유사도 분석을 활용한 PyQt 게임 추천 시스템
 
