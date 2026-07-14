@@ -68,7 +68,10 @@
 - [**Camera Filter**](https://github.com/pleaselaymedown/project_6_camera_filter)  
   Real-time camera filter system implemented with BASYS3, camera input, VGA output, and image processing logic  
   BASYS3, 카메라 입력, VGA 출력, 영상 처리 로직을 활용한 실시간 카메라 필터 시스템
-
+  
+- [**Traffic Sign Classification NPU**](https://github.com/pleaselaymedown/project_8_traffic_sign_classification_system)  
+  10-class traffic sign classification system implemented with a custom Verilog CNN inference NPU on BASYS3 (Artix-7 FPGA), UART communication,   and a PyQt5 GUI  
+  BASYS3(Artix-7 FPGA) 기반 커스텀 Verilog CNN 추론 NPU, UART 통신, PyQt5 GUI를 활용한 교통 표지판 10종 분류 시스템
 
 ### Python / Machine Learning / NLP / PyQt5
 
